@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.hxm.titlelayout.MainActivity">
+
+    <com.hxm.titlelayout.TitleLayout
+        android:id="@+id/layout_title"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        app:bottom_line_visible="true"
+        app:iv_back_src="@drawable/icon_back"
+        app:iv_right_src="@drawable/icon_back"
+        app:right_text="确定"
+        app:right_text_color="@color/color_white"
+        app:title_background="@color/colorPrimaryDark"
+        app:title_color="@color/colorAccent"
+        app:title_name="秦始皇" />
+
+</LinearLayout>

@@ -9,7 +9,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/httplib" />
+            <option value="$PROJECT_DIR$/httplib_rxjava" />
+            <option value="$PROJECT_DIR$/httplib_rxjava2" />
+            <option value="$PROJECT_DIR$/lazyfragment" />
             <option value="$PROJECT_DIR$/titlelayout" />
           </set>
         </option>

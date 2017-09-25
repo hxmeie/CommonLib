@@ -1,1 +1,1 @@
-include ':app', ':titlelayout', ':httplib'
+include ':app', ':titlelayout', ':httplib_rxjava', ':httplib_rxjava2', ':lazyfragment'
